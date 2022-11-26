@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3hyha2R7Kdx213u7j2rCd1k+bvWbz6griAOmdjg+BYnv0LIz3WHVD3E1Ggt4R7OAcos++pnEuQHArytmfcphQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caran\\Desktop\\repos\\ForecastApp\\ForecastApp\\ForecastApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caran\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\caran\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
